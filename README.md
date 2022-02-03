@@ -2,7 +2,7 @@
 
 ### Contact Me:
 
-<a mailto="anurag10202@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="mailto:anurag10202@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anurag-singh-a428a61ab/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
 
 ## My Statistics

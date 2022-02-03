@@ -9,6 +9,8 @@
   </a>
 </p>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc10&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <!-- [![Anurag's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anuragc10&custom_title=Anurag%20Singh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 

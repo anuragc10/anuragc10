@@ -3,7 +3,7 @@
 ### Contact Me:
 <a href="mailto:anurag10202@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anurag-singh-a428a61ab/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-![image title](https://rushter.com/counter.svg)
+
 ### Tech Stack:
 
 
@@ -23,6 +23,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+<br>
+![image title](https://rushter.com/counter.svg)
 
 ## My Statistics:
 <br/>

@@ -4,8 +4,8 @@ Welcome to my GitHub space where I share my journey through code, design, and ba
 
 ### 🧠 About Me
 - 🔭 Currently exploring **System Design** and building robust backend architectures  
-- 💡 Love working with **Java**, **Node.js**, and **MongoDB**
-- 📚 Always learning and staying curious about new backend technologies
+- 💡 Love working with **Java**, **JavaScript**, **Node.js**, and **MongoDB**
+- 📚 Always learning and staying curious about new technologies
 - 💬 Ask me about backend optimization, async workflows, message queues, and design patterns
 - 🎯 Career goal: To architect scalable and maintainable systems
 

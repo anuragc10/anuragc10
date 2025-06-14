@@ -1,6 +1,6 @@
 ### Hi there 👋  
 I'm **Anurag Singh** – a passionate **Software Developer** skilled in building scalable systems.  
-Welcome to my GitHub space where I share my journey through code, design, and backend engineering challenges.
+Welcome to my GitHub space where I share my journey through code, design, and engineering challenges.
 
 ### 🧠 About Me
 - 🔭 Currently exploring **System Design** and building robust backend architectures  
